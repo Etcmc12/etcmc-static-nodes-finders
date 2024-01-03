@@ -18,4 +18,5 @@ if your facing any issue the support is [here, on my discord, don't bother the E
 ## Tips
 If you found it usefull and are willing to give me a tips (first thank you 😁) here's my wallet :
 -**(etc) : **0xb67F3eE7D6A3cA70EdcF9D6d2a16da5F24fD359e**
--****(etc classic) **0xb67F3eE7D6A3cA70EdcF9D6d2a16da5F24fD359e**
+*-*
+-**(etc classic) **0xb67F3eE7D6A3cA70EdcF9D6d2a16da5F24fD359e**
